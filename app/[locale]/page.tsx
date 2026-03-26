@@ -11,6 +11,8 @@ import WhyChooseSection from "@/components/sections/WhyChooseSection";
 import FounderSection from "@/components/sections/FounderSection";
 import CTASection from "@/components/sections/CTASection";
 import FAQSection from "@/components/sections/FAQSection";
+import WhyWensSection from "@/components/sections/WhyWensSection";
+import WorkWithUsSection from "@/components/sections/WorkWithUsSection";
 import FloatingActionButton from "@/components/ui/FloatingActionButton";
 import ChatbotModal from "@/components/ui/ChatbotModal";
 import { BookingProvider } from "@/components/ui/BookingContext";
@@ -29,8 +31,10 @@ export default function Home() {
         <PricingSection />
         <WhyChooseSection />
         <FounderSection />
+        <WhyWensSection />
         <FAQSection />
         <CTASection />
+        <WorkWithUsSection />
       </main>
       <Footer />
 

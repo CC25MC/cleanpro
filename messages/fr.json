@@ -23,7 +23,14 @@
     "description": "Wen's vous libère des soucis de nettoyage. Profitez de votre temps libre pendant que nous nous occupons du reste. Contactez-nous pour réserver vos services dès maintenant !",
     "bookingCta": "Commander Maintenant →",
     "howItWorksCta": "Voir comment ça marche",
-    "socialProof": "50K+ clients satisfaits"
+    "socialProof": "50K+ clients satisfaits",
+    "bgTitle": "SERVICES DE NETTOYAGE PROFESSIONNEL À GENÈVE",
+    "bgSubtitle": "Où le Nettoyage devient Excellence",
+    "bullet1": "✓ +12 ans de services de haute qualité",
+    "bullet2": "✓ Clients satisfaits",
+    "bullet3": "✓ Engagement envers la Qualité",
+    "bullet4": "✓ Flexibilité et Adaptabilité",
+    "cta": "DEMANDER UN DEVIS"
   },
   "Services": {
     "title": "Nos Services",
@@ -40,7 +47,16 @@
     "bathroomDesc": "Nettoyage minutieux post-construction ou restitution de bail clé en main.",
     "sofa": "Ménage d'événements",
     "sofaDesc": "Préparation et remise en état des espaces avant et après vos événements.",
-    "viewAll": "Voir tous nos services →"
+    "viewAll": "Voir tous nos services →",
+    "readmore": "En savoir plus",
+    "homeSubtitle": "Découvrez nos services de nettoyage adaptés à vos besoins. Nous intervenons à Genève avec professionnalisme, discrétion et confidentialité.",
+    "appartements_desc": "Nous proposons un service complet de nettoyage pour votre appartement ou maison. De l'entretien régulier au grand nettoyage, notre équipe qualifiée se charge de tout avec professionnalisme et discrétion.",
+    "bureaux_desc": "Nous assurons le nettoyage régulier et l'entretien de vos bureaux et espaces professionnels. Notre équipe intervient selon vos horaires pour garantir un environnement de travail propre et hygiénique.",
+    "bail_desc": "Nous réalisons un nettoyage en profondeur à la fin de votre bail ou chantier. Un service clé en main pour récupérer votre dépôt de garantie et remettre votre bien en parfait état.",
+    "evenements_desc": "Après vos événements, nous intervenons rapidement pour remettre les lieux en état. De la préparation avant l'événement à la remise en ordre complète après, nous nous occupons de tout.",
+    "vitres_desc": "Nous assurons un nettoyage minutieux de toutes vos surfaces vitrées. Vitres, fenêtres et baies vitrées étincelantes, sans traces ni résidus, pour une vue parfaite.",
+    "conciergerie_desc": "Nous proposons un service complet pour la gestion de la propreté de vos bâtiments et immeubles. Parties communes, escaliers, ascenseurs — tout est pris en charge avec soin.",
+    "whatsapp_template": "Bonjour Wen's Cleaning Services 👋\nJe suis intéressé(e) par votre service de : {serviceName}\n📍 Adresse / Ville :\n📅 Date souhaitée :\n🔁 Fréquence : (unique / régulière)\n📝 Détails supplémentaires :\nMerci de me contacter dès que possible."
   },
   "Reviews": {
     "title": "Approuvé par",
@@ -102,10 +118,9 @@
     "bio": "Wendy Larco a fondé Wen's Cleaning Services avec une vision claire : offrir un service de nettoyage professionnel d'excellence à Genève. Issue du programme SINGA Switzerland, son parcours entrepreneurial a été reconnu et récompensé pour son engagement envers la qualité et l'intégration professionnelle.",
     "achievement1Title": "Prix SINGA Stories 2025",
     "achievement1Desc": "Lauréate du prix d'entrepreneuriat SINGA à Meyrin, Genève — une reconnaissance de l'excellence et de l'innovation dans les services professionnels.",
-    "achievement2Title": "Engagement communautaire",
-    "achievement2Desc": "Active dans la communauté genevoise, Wendy contribue à l'intégration professionnelle et au développement des services de qualité en Suisse.",
-    "achievement3Title": "+50 clients satisfaits",
-    "achievement3Desc": "Une base de clients fidèles qui témoigne de la qualité constante et du professionnalisme de nos prestations."
+    "newBio": "Wendy Larco est la Fondatrice et Directrice d'une entreprise née d'une vision claire : offrir un service de nettoyage de qualité, fondé sur la confiance, le professionnalisme et le respect. Issue du programme SINGA Switzerland, son parcours entrepreneurial a été reconnu pour son engagement envers la qualité et l'intégration professionnelle. Aujourd'hui, Wen's Cleaning Services s'impose comme une référence du nettoyage professionnel à Genève.",
+    "awardTitle": "Prix SINGA – Impact Local 2025",
+    "awardText": "Le 19 novembre 2025, lors de l'événement SINGA Switzerland, organisé dans les locaux de la Fédération des Entreprises Romandes, Wendy Clean Service a été récompensée par le Prix de l'Impact Local dans le cadre de SINGA Stories Genève. Cette reconnaissance témoigne de l'engagement de Wendy et de son équipe au service de la communauté genevoise et de l'excellence professionnelle."
   },
   "Features": {
     "title": "Pourquoi Choisir Wen's ?",
@@ -421,6 +436,50 @@
     "successTitle": "Demande Envoyée !",
     "successMessage": "Votre message a été ouvert dans WhatsApp. Nous vous répondrons rapidement.",
     "successClose": "Fermer"
+  },
+  "WhyWens": {
+    "title": "Pourquoi choisir WEN'S Cleaning Services ?",
+    "subtitle": "Quatre piliers qui définissent notre engagement envers vous chaque jour.",
+    "card1Title": "Excellence dans chaque détail",
+    "card1Desc": "Un haut niveau d'exigence à chaque intervention — aucun recoin n'est négligé.",
+    "card2Title": "Discrétion et confiance",
+    "card2Desc": "Un respect absolu de votre espace et de votre intimité dans tout ce que nous faisons.",
+    "card3Title": "Service sur mesure",
+    "card3Desc": "Des solutions adaptées avec précision aux besoins uniques de chaque client.",
+    "card4Title": "Rigueur et constance",
+    "card4Desc": "Une qualité constante, assurée avec ponctualité et professionnalisme.",
+    "closingQuote": "L'excellence se révèle dans chaque détail.",
+    "sideTag": "Notre engagement",
+    "sideTitle": "Un standard qui ne fléchit jamais",
+    "sideText1": "Chez Wen's Cleaning Services, nous croyons qu'un espace vraiment propre est celui où chaque surface, chaque recoin et chaque détail a été traité avec soin. C'est cette philosophie qui guide notre équipe à chaque intervention.",
+    "sideText2": "Du premier contact à l'inspection finale, notre objectif est unique : votre entière satisfaction. Parce qu'un intérieur propre n'est pas seulement un intérieur propre — c'est la tranquillité d'esprit.",
+    "imageAlt": "Équipe Wen's Cleaning en action"
+  },
+  "WorkWithUs": {
+    "sectionTag": "Prêt à commencer ?",
+    "title": "Un intérieur propre commence par un seul appel",
+    "description": "Confiez votre domicile ou votre espace de travail à Wen's Cleaning Services. Notre équipe qualifiée et discrète s'occupe de tout — afin que vous puissiez vous concentrer sur ce qui compte vraiment.",
+    "trust1": "Professionnels du nettoyage qualifiés et assurés",
+    "trust2": "Service 5 étoiles évalué par 50+ clients à Genève",
+    "trust3": "Planification flexible adaptée à votre agenda",
+    "trust4": "Discrétion absolue et respect de votre espace",
+    "formTitle": "Demandez un devis gratuit",
+    "formSubtitle": "Nous vous contactons via WhatsApp dans l'heure",
+    "placeholderName": "Nom complet *",
+    "placeholderEmail": "Adresse e-mail (optionnel)",
+    "placeholderPhone": "Numéro de téléphone *",
+    "placeholderMessage": "Parlez-nous de vos besoins (type de service, fréquence…)",
+    "labelName": "Nom",
+    "labelEmail": "E-mail",
+    "labelPhone": "Téléphone",
+    "labelMessage": "Détails",
+    "submitBtn": "Envoyer via WhatsApp",
+    "whatsappNote": "Vous serez redirigé(e) vers WhatsApp pour confirmer votre demande",
+    "whatsappTemplate": "Bonjour Wen's Cleaning Services 👋\nJe souhaite demander un devis gratuit.\n\nMes coordonnées :",
+    "successTitle": "Demande envoyée !",
+    "successMessage": "Votre message a été ouvert dans WhatsApp. Nous vous répondrons très prochainement.",
+    "imageAlt": "Service de nettoyage professionnel Wen's",
+    "badgeQuote": "Votre espace mérite ce qu'il y a de mieux."
   },
   "reviewsPage": {
     "h1": "Avis clients & témoignages",

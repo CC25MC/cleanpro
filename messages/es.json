@@ -23,7 +23,14 @@
     "description": "Wen's te libera de las preocupaciones de la limpieza. Disfruta de tu tiempo libre mientras nosotros nos encargamos del resto. ¡Contáctanos para reservar tus servicios ahora!",
     "bookingCta": "Reservar Ahora →",
     "howItWorksCta": "Ver cómo funciona",
-    "socialProof": "50K+ clientes satisfechos"
+    "socialProof": "50K+ clientes satisfechos",
+    "bgTitle": "SERVICIOS DE LIMPIEZA PROFESIONAL EN GINEBRA",
+    "bgSubtitle": "Donde la Limpieza se convierte en excelencia",
+    "bullet1": "✓ +12 años brindando servicios de alta calidad",
+    "bullet2": "✓ Clientes satisfechos",
+    "bullet3": "✓ Compromiso con la Calidad",
+    "bullet4": "✓ Flexibilidad y Adaptabilidad",
+    "cta": "SOLICITAR UN PRESUPUESTO"
   },
   "Services": {
     "title": "Nuestros Servicios",
@@ -40,7 +47,16 @@
     "bathroomDesc": "Limpieza minuciosa post-construcción o devolución de contrato llave en mano.",
     "sofa": "Limpieza de Eventos",
     "sofaDesc": "Preparación y puesta a punto de espacios antes y después de tus eventos.",
-    "viewAll": "Ver todos nuestros servicios →"
+    "viewAll": "Ver todos nuestros servicios →",
+    "readmore": "Saber más",
+    "homeSubtitle": "Descubre nuestros servicios de limpieza adaptados a tus necesidades. Intervenimos en Ginebra con profesionalismo, discreción y confidencialidad.",
+    "appartements_desc": "Ofrecemos un servicio completo de limpieza para tu apartamento o casa. Desde el mantenimiento regular hasta la limpieza en profundidad, nuestro equipo cualificado se encarga de todo con profesionalismo y discreción.",
+    "bureaux_desc": "Garantizamos la limpieza regular y el mantenimiento de tus oficinas y espacios profesionales. Nuestro equipo interviene según tus horarios para asegurar un entorno de trabajo limpio e higiénico.",
+    "bail_desc": "Realizamos una limpieza en profundidad al final de tu contrato de arrendamiento u obra. Un servicio llave en mano para recuperar tu fianza y devolver tu propiedad en perfecto estado.",
+    "evenements_desc": "Tras tus eventos, intervenimos rápidamente para dejar el espacio como nuevo. Desde la preparación previa hasta la limpieza total posterior, nos encargamos de todo.",
+    "vitres_desc": "Garantizamos una limpieza minuciosa de todas tus superficies acristaladas. Cristales y ventanas relucientes, sin marcas ni residuos, para una vista perfecta.",
+    "conciergerie_desc": "Ofrecemos un servicio completo para la gestión de la limpieza de tus edificios. Zonas comunes, escaleras, ascensores — todo con cuidado y profesionalismo.",
+    "whatsapp_template": "Hola Wen's Cleaning Services 👋\nEstoy interesado/a en su servicio de: {serviceName}\n📍 Dirección / Ciudad:\n📅 Fecha deseada:\n🔁 Frecuencia: (única / regular)\n📝 Detalles adicionales:\nGracias, espero su respuesta."
   },
   "Reviews": {
     "title": "Aprobado por",
@@ -102,10 +118,9 @@
     "bio": "Wendy Larco fundó Wen's Cleaning Services con una visión clara: ofrecer un servicio de limpieza profesional de excelencia en Ginebra. Egresada del programa SINGA Switzerland, su trayectoria emprendedora ha sido reconocida y premiada por su compromiso con la calidad y la integración profesional.",
     "achievement1Title": "Premio SINGA Stories 2025",
     "achievement1Desc": "Ganadora del premio de emprendimiento SINGA en Meyrin, Ginebra — un reconocimiento a la excelencia y la innovación en servicios profesionales.",
-    "achievement2Title": "Compromiso comunitario",
-    "achievement2Desc": "Activa en la comunidad ginebrina, Wendy contribuye a la integración profesional y al desarrollo de servicios de calidad en Suiza.",
-    "achievement3Title": "+50 clientes satisfechos",
-    "achievement3Desc": "Una base de clientes fieles que refleja la calidad constante y el profesionalismo de nuestros servicios."
+    "newBio": "Wendy Larco es la Fundadora y Directora de una empresa nacida de una visión clara: ofrecer un servicio de limpieza de calidad, basado en la confianza, el profesionalismo y el respeto. Egresada del programa SINGA Switzerland, su trayectoria emprendedora ha sido reconocida por su compromiso con la calidad y la integración profesional. Hoy, Wen's Cleaning Services es una referencia en la limpieza profesional en Ginebra.",
+    "awardTitle": "Premio SINGA – Impacto Local 2025",
+    "awardText": "El 19 de noviembre de 2025, en el evento SINGA Switzerland, organizado en la sede de la Fédération des Entreprises Romandes, Wendy Clean Service fue premiada con el Premio al Impacto Local en el marco de SINGA Stories Ginebra. Este reconocimiento es un testimonio del compromiso de Wendy y su equipo con la comunidad ginebrina y la excelencia profesional."
   },
   "Features": {
     "title": "¿Por Qué Elegir Wen's?",
@@ -421,6 +436,50 @@
     "successTitle": "¡Solicitud Enviada!",
     "successMessage": "Tu mensaje se ha abierto en WhatsApp. Te responderemos lo antes posible.",
     "successClose": "Cerrar"
+  },
+  "WhyWens": {
+    "title": "¿Por qué elegir WEN'S Cleaning Services?",
+    "subtitle": "Cuatro pilares que definen nuestro compromiso contigo cada día.",
+    "card1Title": "Excelencia en cada detalle",
+    "card1Desc": "Un alto nivel de exigencia en cada intervención — ningún rincón es ignorado.",
+    "card2Title": "Discreción y confianza",
+    "card2Desc": "Respeto absoluto por tu espacio y tu privacidad en todo lo que hacemos.",
+    "card3Title": "Servicio a medida",
+    "card3Desc": "Soluciones adaptadas con precisión a las necesidades únicas de cada cliente.",
+    "card4Title": "Rigor y constancia",
+    "card4Desc": "Calidad constante entregada con puntualidad y profesionalismo.",
+    "closingQuote": "La excelencia se revela en cada detalle.",
+    "sideTag": "Nuestro compromiso",
+    "sideTitle": "Un estándar que nunca falla",
+    "sideText1": "En Wen's Cleaning Services, creemos que un espacio verdaderamente limpio es aquel donde cada superficie, cada rincón y cada detalle ha sido tratado con cuidado. Esta filosofía guía a nuestro equipo en cada servicio.",
+    "sideText2": "Desde el primer contacto hasta la inspección final, nuestro objetivo es uno: tu satisfacción total. Porque un hogar limpio no es solo un hogar limpio — es tranquilidad.",
+    "imageAlt": "Equipo de Wen's Cleaning en acción"
+  },
+  "WorkWithUs": {
+    "sectionTag": "¿Listo para empezar?",
+    "title": "Un espacio limpio comienza con una llamada",
+    "description": "Confía tu hogar o espacio de trabajo a Wen's Cleaning Services. Nuestro equipo cualificado y discreto se encarga de todo, para que tú puedas concentrarte en lo que realmente importa.",
+    "trust1": "Profesionales de limpieza cualificados y asegurados",
+    "trust2": "Servicio 5 estrellas valorado por +50 clientes en Ginebra",
+    "trust3": "Horarios flexibles adaptados a tu agenda",
+    "trust4": "Discreción absoluta y respeto por tu espacio",
+    "formTitle": "Solicita un presupuesto gratuito",
+    "formSubtitle": "Te contactaremos por WhatsApp en menos de una hora",
+    "placeholderName": "Nombre completo *",
+    "placeholderEmail": "Correo electrónico (opcional)",
+    "placeholderPhone": "Teléfono *",
+    "placeholderMessage": "Cuéntanos tus necesidades (tipo de servicio, frecuencia…)",
+    "labelName": "Nombre",
+    "labelEmail": "Email",
+    "labelPhone": "Teléfono",
+    "labelMessage": "Detalles",
+    "submitBtn": "Enviar por WhatsApp",
+    "whatsappNote": "Serás redirigido a WhatsApp para confirmar tu solicitud",
+    "whatsappTemplate": "Hola Wen's Cleaning Services 👋\nMe gustaría solicitar un presupuesto gratuito.\n\nMis datos:",
+    "successTitle": "¡Solicitud enviada!",
+    "successMessage": "Tu mensaje se ha abierto en WhatsApp. Nos pondremos en contacto contigo pronto.",
+    "imageAlt": "Servicio de limpieza profesional de Wen's",
+    "badgeQuote": "Tu espacio merece lo mejor."
   },
   "reviewsPage": {
     "h1": "Opiniones de clientes y testimonios",

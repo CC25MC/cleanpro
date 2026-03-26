@@ -258,6 +258,37 @@ export default function BookingModal() {
                     </div>
                   </motion.div>
 
+                  {/* Service description */}
+                  {(() => {
+                    const descKeyMap: Record<string, string> = {
+                      kitchen: "appartements_desc",
+                      office: "bureaux_desc",
+                      bathroom: "bail_desc",
+                      sofa: "evenements_desc",
+                      window: "vitres_desc",
+                      garden: "conciergerie_desc",
+                    };
+                    const descKey = selectedService ? descKeyMap[selectedService] : null;
+                    return (
+                      <AnimatePresence>
+                        {descKey && (
+                          <motion.div
+                            key="service-desc"
+                            initial={{ opacity: 0, height: 0 }}
+                            animate={{ opacity: 1, height: "auto" }}
+                            exit={{ opacity: 0, height: 0 }}
+                            transition={{ duration: 0.25, ease: "easeInOut" }}
+                            className="overflow-hidden"
+                          >
+                            <p className="text-slate-500 text-sm leading-relaxed bg-slate-50 rounded-xl px-4 py-3 border border-slate-100">
+                              {tServices(descKey as Parameters<typeof tServices>[0])}
+                            </p>
+                          </motion.div>
+                        )}
+                      </AnimatePresence>
+                    );
+                  })()}
+
                   {/* Personal info */}
                   <motion.div variants={fadeInUp} className="space-y-3">
                     <h3 className="text-[#0F2347] font-bold text-sm uppercase tracking-wider">
