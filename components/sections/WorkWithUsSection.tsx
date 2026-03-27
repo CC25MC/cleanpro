@@ -11,7 +11,7 @@ import {
   MessageSquare,
   Send,
   CheckCircle2,
-  CheckCircle,
+  // CheckCircle,
 } from "lucide-react";
 
 const WHATSAPP_NUMBER = "41778102004";
